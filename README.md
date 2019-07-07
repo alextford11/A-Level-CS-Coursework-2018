@@ -5,3 +5,5 @@ First proper project and is disgustingly bad, so not to be taken serious, please
 ## Built Using:
 - Python
 - Kivy
+
+Ignore the comments in main.py, had to for the coursework.
